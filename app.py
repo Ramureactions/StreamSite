@@ -34,7 +34,7 @@ def short_api_v4():
         new_collection.insert_one(
             {"url_id": url_id, "dl_url": dl_url, "metadata": metadata}
         )
-        short_url = f"https://stream.anshbotzone.tech/view/{url_id}"
+        short_url = f"http://www.ramreactions1.xyz/view/{url_id}"
         response_data = {
             "status": 200,
             "url_id": url_id,
