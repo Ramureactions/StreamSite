@@ -1,5 +1,5 @@
 #ShareusADX GAM360 ~ Us/wyoming ~ publisher.shareus.io
-google.com, pub-0872102352614708, DIRECT, f08c47fec0942fa0
+google.com, pub-5662377394201398, DIRECT, f08c47fec0942fa0
 google.com, pub-4219948434523868, DIRECT, f08c47fec0942fa0
 taboola.com,1674195,DIRECT,c228e6794e811952
 tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
